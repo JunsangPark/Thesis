@@ -7,8 +7,13 @@
    - [Universal language model fine-tunning for text classification, Howard et al.(2018)](https://arxiv.org/pdf/1801.06146.pdf)
 
 + **Image**
+   - [Rich feature hierarchies for accurate object detection and semantic segmentation, Girshick et al.(2014)](https://arxiv.org/pdf/1311.2524.pdf)
+   - [Fast R-CNN, Girshick et al.(2015)](https://arxiv.org/pdf/1504.08083.pdf)
+   - [Faster R-CNN: Towards Real-Time Object
+Detection with Region Proposal Networks, Ren et al.(2016)](https://arxiv.org/pdf/1506.01497.pdf)
    - [Wide Residual Networks, Zagoruyko et al.(2017)](https://arxiv.org/pdf/1605.07146.pdf)
    - [Feature Pyramid Networks for Object Detection, Lin et al.(2017)](https://arxiv.org/pdf/1612.03144.pdf) 
+   - [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN, Parthasarathy(2017)](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
    - [Focal Loss for Dense object detection, Lin et al.(2018)](https://arxiv.org/pdf/1708.02002.pdf)
    
 + **Reinforcement Learning**
