@@ -19,6 +19,13 @@ Detection with Region Proposal Networks, Ren et al.(2016)](https://arxiv.org/pdf
 + **Reinforcement Learning**
    - [Introduction to RL, Spinning up]()
 
++ **DNN**
+   - [A logical calculus of the ideas immanent in nervous activity, McCulloch et al.(1943)](http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf)
+   - [Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position, Fukushima(1980)](https://www.rctn.org/bruno/public/papers/Fukushima1980.pdf)
+   - [GradientBased Learning Applied to Document Recognition, LeCun et al.(1998)](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
+   - [Rosenblatt's Contributions, (2011)](http://csis.pace.edu/~ctappert/srd2011/rosenblatt-contributions.htm)
+   
+   
 + **DNN on manifold**
    - [Learning shape correspondence with anisotropic convolutional neural networks, Boscaini et al.(2016)]()
    - [Geometric deep learning on graphs and manifolds using mixture model CNNs, Monti et al.(2017)]()
