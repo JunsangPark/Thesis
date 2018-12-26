@@ -57,19 +57,27 @@ Detection with Region Proposal Networks, Ren et al.(2016)](https://arxiv.org/pdf
    - [Modeling relational data with graph convolutional networks, Schlichtkrull et al.(2017)]()
    - [A generalization of convolutional nueral networks to graph-structured data, Hechtlinger et al.(2017)]()
    - [Graph Convolutional Matrix Completion, Berg et al.(2017)](https://arxiv.org/pdf/1706.02263.pdf)
+   - [Relational deep learning: A deep latent variable model for link prediction, Wang et al.(2017)](https://www.semanticscholar.org/paper/Relational-Deep-Learning%3A-A-Deep-Latent-Variable-Wang-Shi/2c6fff32b609822718b3784abac17a9f7f4b49cc)
    - [Structured deep models: Deep learning on graphs and beyond, Kipf(2018)]()
    - [How powerful are garph neural networks?, Xu et al.(2018)]()
    - [Learning to represent programs with graphs, Allamanis et al.(2018)]()
    - [Graph attention networks, Velickovic et al.(2018)]()
    - [Neural Relational Inference for Interacting Systems, Kipf et al.(2018)]()
    - [Analysis of irregular spatial data with machine learning: classification of building patterns with a graph convolutional neural network, Yan et al.(2018)]()
+   - [Link Prediction Based on Graph Neural Networks, Zhang & Chen(2018)](https://arxiv.org/abs/1802.09691)
+   - [Modeling relational data with graph convolutional networks, Schlichtkrull et al.(2018)](https://arxiv.org/abs/1703.06103)
    - [A tutorial on graph convolutional neural networks, Dbusbridge]()
    - [Graph neural networks, Stanford]()
    - [What's up with the Graph Laplacian?, Jeremy Kun]()
-   - [How to do deep learning on graphs with graph convolutional networks, Jepsen]()
+   - [How to do deep learning on graphs with graph convolutional networks, Jepsen](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780)
    
 + **Matrix completion**
    - [Exact Matrix Completion via Convex Optimization, Candes et al.(2008)](https://arxiv.org/abs/0805.4471)
+
++ **Link prediction**
+   - [Learning with Hypergraphs: Clustering, Classification, and Embedding, Zhou et al.(2006)](https://ieeexplore.ieee.org/document/6287378?reload=true&arnumber=6287378&punumber%3D6267330%26sortType%3Dasc_p_Sequence%26filter%3DAND(p_Publication_Number:6267330)%26pageNumber%3D9=)
+   - [Link prediction in social networks based on hypergraph, Li et al.(2013)](https://dl.acm.org/citation.cfm?id=2487802)
+   - [LInk prediction in hypergraphs using graph convolutional networks, (2019)]()
 
 + **Clustering**
    - [Unsupervised deep embedding for clustering analysis, Xie et al.(2015)](https://arxiv.org/pdf/1511.06335.pdf)
