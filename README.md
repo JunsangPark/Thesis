@@ -2,20 +2,22 @@
 
 + **Application**
    - [Neural networks and customer grouping in e-commerce:a framework using fuzzy ART, Park et al.(2000)]()
+   - [Dynamic Pricing in Electronic Commerce Using Neural Network, Ghose et al.(2009)](https://link.springer.com/chapter/10.1007/978-3-642-01187-0_18)
    - [The determinants of consumers’ online shopping cart abandonment, Kukar-Kinney et al.(2010)]()
    - [Factors influencing cart abandonment in the online shopping process, Xu et al.(2015)]()
    - [Predicting online user behaviour using deep learning algorithms, Vieira(2015)](https://www.researchgate.net/publication/284219029_Predicting_online_user_behaviour_using_deep_learning_algorithms)
    - [Top 5 machine learning applications for e-commere, Magrabi(2016)]()
    - [Cross-modal search for fashion attributes, Laenen et al.(2017)]()
    - [Mobile shopping cart abandonment: the roles of conflicts, ambivalence, and hesitation, Huang et al.(2017)]()
-   - [Prediciting shopping behaior with mixture of rnns, Toth et al.(2017)]()
+   - [Prediciting shopping behaior with mixture of rnns, Toth et al.(2017)](http://sigir-ecom.weebly.com/accepted-papers.html)
    - [Sales forecast in e-commerce using convolutional neural network, Zhao et al.(2017)]()
    - [Address clustering for e-commerce applications, Kakkar et al.(2018)]()
    - [Multi-level deep learning based e-commerce product categorization, Yu et al.(2018)]()
    - [Multi-lingual neural title generation for e-commerce browse pages, Mathur et al.(2018)](http://aclweb.org/anthology/N18-3020)
    - [Predicting e-consumer behavior using recurrent neural networks, Danmand(2018)](https://blog.nirida.ai/predicting-e-commerce-consumer-behavior-using-recurrent-neural-networks-36e37f1aed22)
-   - [Predicting purchasing intent: automatic feature learning using recurrent neural networks, Sheil et al.(2018)]()  
-   - [Speeding up the metabolism in e-commerce by reinforcement mechanism design, He et al.(2018)]()
+   - [Predicting purchasing intent: automatic feature learning using recurrent neural networks, Sheil et al.(2018)](https://arxiv.org/abs/1807.08207)  
+   - [Speeding up the metabolism in e-commerce by reinforcement mechanism design, He et al.(2018)](https://arxiv.org/abs/1807.00448)
+   - [Dynamic pricing on E-commerce platform with deep reinforcement learning, (2018)]()
    - [19 Powerful Ways To Use Artificial Intelligence In Ecommerce](http://blog.linnworks.com/artificial-intelligence-in-ecommerce)
 
 
@@ -59,7 +61,7 @@
    - [A simple neural network module for relational reasoning, Santoro et al.(2017)]()
    - [Convolutional neural networks on graphs, Bresson et al.(2017)]()
    - [Deep learning on graphs with graph convolutional networks, Kipf(2017)]()
-   - [Graph Convolutional Matrix Completion, Berg et al.(2017)](https://arxiv.org/pdf/1706.02263.pdf)
+   - [Graph Convolutional Matrix Completion, Berg et al.(2017)](https://arxiv.org/abs/1706.02263)
    - [Geometric deep learning on graphs and manifolds using mixture model CNNs, Monti et al.(2017)]()
    - [Geometric deep learning: going beyond Euclidean data, Bronstein et al.(2017)]()
    - [Geometric matrix completion with recurrent multi-graph neural networks, Monti et al.(2017)](https://arxiv.org/abs/1704.06803)
@@ -110,8 +112,8 @@ Detection with Region Proposal Networks, Ren et al.(2016)](https://arxiv.org/pdf
 
 
 + **NLP** 
-   - [Convolutional Sequence to Sequence Learning, Gehring et al.(2017)]()
-   - [Language Modeling with Gated Convolutional Networks, Dauphin et al.(2017)]()
+   - [Convolutional Sequence to Sequence Learning, Gehring et al.(2017)](https://arxiv.org/abs/1705.03122)
+   - [Language Modeling with Gated Convolutional Networks, Dauphin et al.(2017)](https://arxiv.org/abs/1612.08083)
    - [An empirical evaluation of generic convolutional and recurrent networks for sequential modeling, Bai et al.(2018)](https://arxiv.org/pdf/1803.01271.pdf)
    - [Universal language model fine-tunning for text classification, Howard et al.(2018)](https://arxiv.org/pdf/1801.06146.pdf)
 
