@@ -24,7 +24,7 @@
    - [Predicting purchasing intent: automatic feature learning using recurrent neural networks, Sheil et al.(2018)](https://arxiv.org/abs/1807.08207) 
    - [Reinforcement Learning for Fair Dynamic Pricing, Maestre et al.(2018)](https://arxiv.org/pdf/1803.09967.pdf)
    - [Speeding up the metabolism in e-commerce by reinforcement mechanism design, He et al.(2018)](https://arxiv.org/abs/1807.00448)
-   - [Dynamic pricing on E-commerce platform with deep reinforcement learning, (2018)]()
+   - [Dynamic pricing on E-commerce platform with deep reinforcement learning, (2019)]()
    - [19 Powerful Ways To Use Artificial Intelligence In Ecommerce](http://blog.linnworks.com/artificial-intelligence-in-ecommerce)
 
 
