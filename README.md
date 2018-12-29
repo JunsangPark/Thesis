@@ -127,9 +127,14 @@ Detection with Region Proposal Networks, Ren et al.(2016)](https://arxiv.org/pdf
    
 + **Reinforcement Learning**
    - [Introduction to RL, Spinning up]()
+   - [Continuous control with deep reinforcement learning, Lillicrap et al.(2016)](https://arxiv.org/pdf/1509.02971.pdf)
 
 
-
++ **Statistics**
+   - [Myopia and ambient lighting at night, Quinn et al.(1999)](https://www.nature.com/articles/20094)
+   - [Salience and Taxation: Theory and Evidence, Chetty et al.(2009)](https://are.berkeley.edu/SGDC/Chetty_Looney_Kroft_AER_2010.pdf)
+   - [Thinking, fast and slow? Some field experiments to reduce crime and dropout in Chicago, Heller et al.(2015)](https://harris.uchicago.edu/files/inline-files/CBT%20paper%20thinking%20fast%20and%20slow%20NBER%20WP%20w21178.pdf)
+   - [Using Big Data to Estimate Consumer Surplus: The Case of Uber, Cohen et al.(2016)](http://www.datascienceassn.org/sites/default/files/Using%20Big%20Data%20to%20Estimate%20Consumer%20Surplus%20at%20Uber.pdf)
 
 
 
