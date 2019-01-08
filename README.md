@@ -127,7 +127,8 @@ Detection with Region Proposal Networks, Ren et al.(2016)](https://arxiv.org/pdf
 
    
 + **Reinforcement Learning**
-   - [Introduction to RL, Spinning up]()
+   - [Introduction to RL, Spinning up](https://spinningup.openai.com/en/latest/)
+   - [Human-level control through deep reinforcement learning, Mnih et al.(2015)](https://www.nature.com/articles/nature14236)
    - [Continuous control with deep reinforcement learning, Lillicrap et al.(2016)](https://arxiv.org/pdf/1509.02971.pdf)
 
 
