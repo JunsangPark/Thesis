@@ -1,7 +1,7 @@
 # Thesis
 
 + **Application**
-   - [Neural networks and customer grouping in e-commerce:a framework using fuzzy ART, Park et al.(2000)]()
+   - [Neural networks and customer grouping in e-commerce:a framework using fuzzy ART, Park et al.(2000)](https://ieeexplore.ieee.org/document/843312)
    - [Dynamic Pricing in Electronic Commerce Using Neural Network, Ghose et al.(2009)](https://link.springer.com/chapter/10.1007/978-3-642-01187-0_18)
    - [Clearance Pricing Optimization for a Fast-Fashion Retailer, Caro et al.(2010)](http://faculty.london.edu/jgallien/CaroGallien_ClearancePricingOptimizationForFastFashion.pdf)
    - [The determinants of consumers’ online shopping cart abandonment, Kukar-Kinney et al.(2010)]()
@@ -13,18 +13,30 @@
    - [An Empirical Analysis of Algorithmic Pricing on Amazon Marketplace, Chen et al.(2016)](https://mislove.org/publications/Amazon-WWW.pdf)
    - [Dynamic Pricing and Energy Consumption Scheduling With Reinforcement Learning, Kim et al.(2016)](https://ieeexplore.ieee.org/document/7321806)
    - [Top 5 machine learning applications for e-commere, Magrabi(2016)]()
+   - [A Content-based Recommender System for E-commerce Offers and Coupons, Xia et al.(2017)](http://sigir-ecom.weebly.com/uploads/1/0/2/9/102947274/paper_20.pdf)
+   - [Address Fraud: Monkey Typed Address Classification for e-Commerce Applications, Babu et al.(2017)](http://sigir-ecom.weebly.com/uploads/1/0/2/9/102947274/paper_21.pdf)
+   - [Argument based Online Deceptive Review Spam Detection, Liu et al.(2017)](http://sigir-ecom.weebly.com/uploads/1/0/2/9/102947274/paper_18.pdf)
    - [Cross-modal search for fashion attributes, Laenen et al.(2017)]()
+   - [Discovering Similar Products in Fashion E-commerce, Madvariya(2017)](http://sigir-ecom.weebly.com/uploads/1/0/2/9/102947274/paper_19.pdf)
    - [Mobile shopping cart abandonment: the roles of conflicts, ambivalence, and hesitation, Huang et al.(2017)]()
+   - [Predicting Sales from the Language of Product Descriptions, Pryzant et al.(2017)](http://sigir-ecom.weebly.com/uploads/1/0/2/9/102947274/paper_3.pdf) 
    - [Prediciting shopping behaior with mixture of rnns, Toth et al.(2017)](http://sigir-ecom.weebly.com/accepted-papers.html)
+   - [Unsupervised Topic Modelling in a Book Recommender System for New Users, Alharthi et al.(2017)](http://sigir-ecom.weebly.com/uploads/1/0/2/9/102947274/paper_4.pdf)
    - [Sales forecast in e-commerce using convolutional neural network, Zhao et al.(2017)]()
    - [Address clustering for e-commerce applications, Kakkar et al.(2018)]()
+   - [How This Research By Alibaba Group Has Used Reinforcement Learning To Change Real-Time Bidding, Maladkar(2018)](https://www.analyticsindiamag.com/how-this-research-by-alibaba-group-has-used-reinforcement-learning-to-change-real-time-bidding/)
    - [Multi-level deep learning based e-commerce product categorization, Yu et al.(2018)]()
    - [Multi-lingual neural title generation for e-commerce browse pages, Mathur et al.(2018)](http://aclweb.org/anthology/N18-3020)
    - [Predicting e-consumer behavior using recurrent neural networks, Danmand(2018)](https://blog.nirida.ai/predicting-e-commerce-consumer-behavior-using-recurrent-neural-networks-36e37f1aed22)
    - [Predicting purchasing intent: automatic feature learning using recurrent neural networks, Sheil et al.(2018)](https://arxiv.org/abs/1807.08207) 
    - [Reinforcement Learning for Fair Dynamic Pricing, Maestre et al.(2018)](https://arxiv.org/pdf/1803.09967.pdf)
+   - [Reinforcement Learning to Rank in E-Commerce Search Engine: Formalization, Analysis, and Application, Hu et al.(2018)](https://arxiv.org/pdf/1803.00710.pdf)
+   - [Reinforcement Mechanism Design for e-commerce, Cai et al.(2018)](https://arxiv.org/pdf/1708.07607.pdf)
+   - [Review Sentiment–Guided Scalable Deep Recommender System, Hyun et al.(2018)](http://dm.postech.ac.kr/~pcy1302/data/SIGIR18.pdf)
    - [Speeding up the metabolism in e-commerce by reinforcement mechanism design, He et al.(2018)](https://arxiv.org/abs/1807.00448)
-   - [Dynamic pricing on E-commerce platform with deep reinforcement learning, (2019)]()
+   - [Talent Search and Recommendation Systems at LinkedIn: Practical Challenges and Lessons Learned, Geyik et al.(2018)](https://arxiv.org/pdf/1809.06481.pdf)
+   - [The Evolution of Content Analysis for Personalized Recommendations at Twitter, Grewal et al.(2018)](https://cs.uwaterloo.ca/~jimmylin/publications/Grewal_Lin_SIGIR2018.pdf)
+   - [Dynamic pricing on E-commerce platform with deep reinforcement learning, (2019)](https://openreview.net/pdf?id=HJMRvsAcK7)
    - [19 Powerful Ways To Use Artificial Intelligence In Ecommerce](http://blog.linnworks.com/artificial-intelligence-in-ecommerce)
 
 
@@ -40,6 +52,7 @@
 + **DNN**
    - [A logical calculus of the ideas immanent in nervous activity, McCulloch et al.(1943)](http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf)
    - [Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position, Fukushima(1980)](https://www.rctn.org/bruno/public/papers/Fukushima1980.pdf)
+   - [Multilayer feedforward networks are universal approximators, Hornik et al.,(1989)](http://cognitivemedium.com/magic_paper/assets/Hornik.pdf)
    - [GradientBased Learning Applied to Document Recognition, LeCun et al.(1998)](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
    - [Rosenblatt's Contributions, (2011)](http://csis.pace.edu/~ctappert/srd2011/rosenblatt-contributions.htm)
    - [Exact solutions to the nonlinear dynamics of learning in deep linear neural networks, (2014)](https://arxiv.org/abs/1312.6120)
@@ -54,7 +67,7 @@
    
 + **DNN on graph**
    - [A new model for learning in graph domains, Gori et al.(2005)](https://ieeexplore.ieee.org/document/1555942)
-   - [Weighted graph cuts without eigenvectors: a multilevel approach, Dhillon et al.(2007)]()
+   - [Weighted graph cuts without eigenvectors: a multilevel approach, Dhillon et al.(2007)](https://ieeexplore.ieee.org/document/4302760)
    - [The Graph Neural Network Model, Scarselli et al.(2009)]()
    - [Wavelets on graphs via spectral graph theory, Hammond et al.(2011)]()
    - [The emerging field of signal processing on graphs, Shuman et al.(2013)]()
@@ -127,9 +140,11 @@ Detection with Region Proposal Networks, Ren et al.(2016)](https://arxiv.org/pdf
 
    
 + **Reinforcement Learning**
-   - [Introduction to RL, Spinning up](https://spinningup.openai.com/en/latest/)
+   - [Technical note: Q-learning, Wakins et al.(1992)](http://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf)
+   - [Reinforcement learning in continuous action spaces, Hasselt et al.(2007)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.7658&rep=rep1&type=pdf)
    - [Human-level control through deep reinforcement learning, Mnih et al.(2015)](https://www.nature.com/articles/nature14236)
    - [Continuous control with deep reinforcement learning, Lillicrap et al.(2016)](https://arxiv.org/pdf/1509.02971.pdf)
+   - [Introduction to RL, Spinning up](https://spinningup.openai.com/en/latest/)
 
 
 + **Statistics**
