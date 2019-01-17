@@ -10,7 +10,6 @@
    - [Factors influencing cart abandonment in the online shopping process, Xu et al.(2015)]()
    - [Now Prices Can Change From Minute to Minute, Nicas(2015)](https://www.wsj.com/articles/now-prices-can-change-from-minute-to-minute-1450057990)
    - [Predicting online user behaviour using deep learning algorithms, Vieira(2015)](https://www.researchgate.net/publication/284219029_Predicting_online_user_behaviour_using_deep_learning_algorithms)
-   - [An Empirical Analysis of Algorithmic Pricing on Amazon Marketplace, Chen et al.(2016)](https://mislove.org/publications/Amazon-WWW.pdf)
    - [Dynamic Pricing and Energy Consumption Scheduling With Reinforcement Learning, Kim et al.(2016)](https://ieeexplore.ieee.org/document/7321806)
    - [Top 5 machine learning applications for e-commere, Magrabi(2016)]()
    - [A Content-based Recommender System for E-commerce Offers and Coupons, Xia et al.(2017)](http://sigir-ecom.weebly.com/uploads/1/0/2/9/102947274/paper_20.pdf)
@@ -104,6 +103,11 @@
    - [Graph neural networks, Stanford]()
    - [How to do deep learning on graphs with graph convolutional networks, Jepsen](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780)
    - [What's up with the Graph Laplacian?, Jeremy Kun]()
+
+
++ **Empirical analysis and Observations**
+   - [An Empirical Analysis of Algorithmic Pricing on Amazon Marketplace, Chen et al.(2016)](https://mislove.org/publications/Amazon-WWW.pdf)
+
 
 
 + **Image**
