@@ -119,6 +119,7 @@ Detection with Region Proposal Networks, Ren et al.(2016)](https://arxiv.org/pdf
    - [Feature Pyramid Networks for Object Detection, Lin et al.(2017)](https://arxiv.org/pdf/1612.03144.pdf) 
    - [Wide Residual Networks, Zagoruyko et al.(2017)](https://arxiv.org/pdf/1605.07146.pdf)
    - [Focal Loss for Dense object detection, Lin et al.(2018)](https://arxiv.org/pdf/1708.02002.pdf)
+   - [VITON: An Image-based Virtual Try-on Network, Han et al.(2018)](https://arxiv.org/abs/1711.08447)
 
 
 + **Link prediction**
