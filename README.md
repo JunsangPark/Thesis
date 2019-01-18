@@ -113,6 +113,7 @@
 + **Image**
    - [Rich feature hierarchies for accurate object detection and semantic segmentation, Girshick et al.(2014)](https://arxiv.org/pdf/1311.2524.pdf)
    - [Fast R-CNN, Girshick et al.(2015)](https://arxiv.org/pdf/1504.08083.pdf)
+   - [Image-based 3D Avatar for Virtual Try-on Applications, Tisserand et al.(2015)](http://docplayer.net/40134084-Image-based-3d-avatar-for-virtual-try-on-applications.html)
    - [Faster R-CNN: Towards Real-Time Object
 Detection with Region Proposal Networks, Ren et al.(2016)](https://arxiv.org/pdf/1506.01497.pdf)
    - [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN, Parthasarathy(2017)](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
