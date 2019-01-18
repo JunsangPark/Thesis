@@ -24,6 +24,7 @@
    - [Sales forecast in e-commerce using convolutional neural network, Zhao et al.(2017)]()
    - [Address clustering for e-commerce applications, Kakkar et al.(2018)]()
    - [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba, Huang et al.(2018)](http://www.cse.ust.hk/~hzhaoaf/data/kdd18-paper.pdf)
+   - [Dynamic Pricing under Competition on Online Marketplaces: A Data-Driven Approach, Schlosser et al.(2018)](https://www.researchgate.net/publication/326503226_Dynamic_Pricing_under_Competition_on_Online_Marketplaces_A_Data-Driven_Approach)
    - [How This Research By Alibaba Group Has Used Reinforcement Learning To Change Real-Time Bidding, Maladkar(2018)](https://www.analyticsindiamag.com/how-this-research-by-alibaba-group-has-used-reinforcement-learning-to-change-real-time-bidding/)
    - [Multi-level deep learning based e-commerce product categorization, Yu et al.(2018)]()
    - [Multi-lingual neural title generation for e-commerce browse pages, Mathur et al.(2018)](http://aclweb.org/anthology/N18-3020)
@@ -38,6 +39,7 @@
    - [The Evolution of Content Analysis for Personalized Recommendations at Twitter, Grewal et al.(2018)](https://cs.uwaterloo.ca/~jimmylin/publications/Grewal_Lin_SIGIR2018.pdf)
    - [Dynamic pricing on E-commerce platform with deep reinforcement learning, (2019)](https://openreview.net/pdf?id=HJMRvsAcK7)
    - [19 Powerful Ways To Use Artificial Intelligence In Ecommerce](http://blog.linnworks.com/artificial-intelligence-in-ecommerce)
+   - [Dynamic Pricing on Online Marketplaces, Hasso Plattner Institute](https://hpi.de/plattner/projects/dynamic-pricing-on-online-marketplaces.html)
 
 
 + **Autoencoder**
@@ -91,7 +93,8 @@
    - [Relational deep learning: A deep latent variable model for link prediction, Wang et al.(2017)](https://www.semanticscholar.org/paper/Relational-Deep-Learning%3A-A-Deep-Latent-Variable-Wang-Shi/2c6fff32b609822718b3784abac17a9f7f4b49cc)
    - [Semi-supervised classification with graph convolutional networks, Kipf et al.(2017)]()
    - [Analysis of irregular spatial data with machine learning: classification of building patterns with a graph convolutional neural network, Yan et al.(2018)]()
-   - [Graph attention networks, Velickovic et al.(2018)]()
+   - [Graph attention networks, Velickovic et al.(2018)](https://arxiv.org/abs/1710.10903)
+   - [Graph convolutional neural networks for web-scale recommender systems, Ying et al.(2018)](https://arxiv.org/abs/1806.01973)
    - [How powerful are garph neural networks?, Xu et al.(2018)]()
    - [Learning to represent programs with graphs, Allamanis et al.(2018)]()
    - [Link Prediction Based on Graph Neural Networks, Zhang & Chen(2018)](https://arxiv.org/abs/1802.09691)
@@ -120,6 +123,7 @@ Detection with Region Proposal Networks, Ren et al.(2016)](https://arxiv.org/pdf
    - [Feature Pyramid Networks for Object Detection, Lin et al.(2017)](https://arxiv.org/pdf/1612.03144.pdf) 
    - [Wide Residual Networks, Zagoruyko et al.(2017)](https://arxiv.org/pdf/1605.07146.pdf)
    - [Focal Loss for Dense object detection, Lin et al.(2018)](https://arxiv.org/pdf/1708.02002.pdf)
+   - [Generative adversarial network-based virtual try-on with clothing region, Kubo et al.(2018)](https://openreview.net/forum?id=B1WLiDJvM)
    - [VITON: An Image-based Virtual Try-on Network, Han et al.(2018)](https://arxiv.org/abs/1711.08447)
 
 
