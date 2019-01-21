@@ -114,6 +114,10 @@
    - [An Empirical Analysis of Algorithmic Pricing on Amazon Marketplace, Chen et al.(2016)](https://mislove.org/publications/Amazon-WWW.pdf)
 
 
++ **Generative model**
+   - [A Neural Autoregressive Approach to Collaborative Filtering, Zheng et al.(2016)](https://arxiv.org/abs/1605.09477)
+   - [Deep Generative models, Ermon and Grover(2018)](https://deepgenerativemodels.github.io/)
+   
 
 + **Image**
    - [Rich feature hierarchies for accurate object detection and semantic segmentation, Girshick et al.(2014)](https://arxiv.org/pdf/1311.2524.pdf)
