@@ -134,6 +134,7 @@
    - [Wide Residual Networks, Zagoruyko et al.(2017)](https://arxiv.org/pdf/1605.07146.pdf)
    - [Focal Loss for Dense object detection, Lin et al.(2018)](https://arxiv.org/pdf/1708.02002.pdf)
    - [Generative adversarial network-based virtual try-on with clothing region, Kubo et al.(2018)](https://openreview.net/forum?id=B1WLiDJvM)
+   - [Photo Wake-Up: 3D Character Animation from a Single Photo, Weng et al.(2018)](https://arxiv.org/pdf/1812.02246.pdf)
    - [VITON: An Image-based Virtual Try-on Network, Han et al.(2018)](https://arxiv.org/abs/1711.08447)
 
 
