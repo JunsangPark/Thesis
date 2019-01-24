@@ -124,9 +124,12 @@
    
 
 + **Image**
+   - [A randomized correspondence algorithm for structural image editing, Shechtman et al.(2009)](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/index.php)
    - [Rich feature hierarchies for accurate object detection and semantic segmentation, Girshick et al.(2014)](https://arxiv.org/pdf/1311.2524.pdf)
    - [Fast R-CNN, Girshick et al.(2015)](https://arxiv.org/pdf/1504.08083.pdf)
    - [Image-based 3D Avatar for Virtual Try-on Applications, Tisserand et al.(2015)](http://docplayer.net/40134084-Image-based-3d-avatar-for-virtual-try-on-applications.html)
+   - [SMPL: A skinned multi-person linear model, Loper et al.(2015)](files.is.tue.mpg.de/black/papers/SMPL2015.pdf)
+   - [COnvolutional pose machines, Wei et al.(2016)](https://arxiv.org/abs/1602.00134)
    - [Deep3D: Fully Automatic 2D-to-3D Video Conversion with Deep Convolutional Neural Networks, Xie et al.(2016)](https://arxiv.org/abs/1604.03650)
    - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, Ren et al.(2016)](https://arxiv.org/pdf/1506.01497.pdf)
    - [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN, Parthasarathy(2017)](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
