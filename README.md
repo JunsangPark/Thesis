@@ -126,6 +126,7 @@
 + **Image**
    - [A randomized correspondence algorithm for structural image editing, Shechtman et al.(2009)](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/index.php)
    - [Rich feature hierarchies for accurate object detection and semantic segmentation, Girshick et al.(2014)](https://arxiv.org/pdf/1311.2524.pdf)
+   - [Very deep convolutional networks for large-scale image recognition, Simonyan et al.(2014)](https://arxiv.org/abs/1409.1556)
    - [Fast R-CNN, Girshick et al.(2015)](https://arxiv.org/pdf/1504.08083.pdf)
    - [Image-based 3D Avatar for Virtual Try-on Applications, Tisserand et al.(2015)](http://docplayer.net/40134084-Image-based-3d-avatar-for-virtual-try-on-applications.html)
    - [SMPL: A skinned multi-person linear model, Loper et al.(2015)](files.is.tue.mpg.de/black/papers/SMPL2015.pdf)
