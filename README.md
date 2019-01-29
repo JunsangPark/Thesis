@@ -16,6 +16,7 @@
    - [Top 5 machine learning applications for e-commere, Magrabi(2016)]()
    - [A Content-based Recommender System for E-commerce Offers and Coupons, Xia et al.(2017)](http://sigir-ecom.weebly.com/uploads/1/0/2/9/102947274/paper_20.pdf)
    - [Address Fraud: Monkey Typed Address Classification for e-Commerce Applications, Babu et al.(2017)](http://sigir-ecom.weebly.com/uploads/1/0/2/9/102947274/paper_21.pdf)
+   - [Airfare Prices Prediction Using Machine Learning Techniques, Tziridis et al.(2017)](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2017/papers/1570348051.pdf)
    - [Argument based Online Deceptive Review Spam Detection, Liu et al.(2017)](http://sigir-ecom.weebly.com/uploads/1/0/2/9/102947274/paper_18.pdf)
    - [Cross-modal search for fashion attributes, Laenen et al.(2017)]()
    - [Discovering Similar Products in Fashion E-commerce, Madvariya(2017)](http://sigir-ecom.weebly.com/uploads/1/0/2/9/102947274/paper_19.pdf)
