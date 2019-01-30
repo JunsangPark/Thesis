@@ -116,6 +116,10 @@
    - [What's up with the Graph Laplacian?, Jeremy Kun]()
 
 
++ **Dynamic pricing**
+   - [Simulating Dynamic Pricing Algorithm Performance in Heterogeneous Markets, Olav et al.(2016)](https://brage.bibsys.no/xmlui/handle/11250/2433836)
+
+
 + **Empirical analysis and Observations**
    - [An Empirical Analysis of Algorithmic Pricing on Amazon Marketplace, Chen et al.(2016)](https://mislove.org/publications/Amazon-WWW.pdf)
 
