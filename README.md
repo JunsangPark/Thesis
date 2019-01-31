@@ -106,6 +106,7 @@
    - [Link Prediction Based on Graph Neural Networks, Zhang & Chen(2018)](https://arxiv.org/abs/1802.09691)
    - [Modeling relational data with graph convolutional networks, Schlichtkrull et al.(2018)](https://arxiv.org/abs/1703.06103)
    - [Neural Relational Inference for Interacting Systems, Kipf et al.(2018)](https://arxiv.org/abs/1802.04687)
+   - [Recurrent Multi-Graph Neural Networks for Travel Cost Prediction, Hu et al.(2018)](https://arxiv.org/abs/1811.05157)
    - [Representation Learning on Networks, Stanford(2018)](http://snap.stanford.edu/proj/embeddings-www/)
    - [Representation Learning on Graphs: Methods and Applications, Hamilton et al.(2018)](https://arxiv.org/abs/1709.05584)
    - [Streaming Graph Neural Networks, Ma et al.(2018)](https://arxiv.org/pdf/1810.10627.pdf)
