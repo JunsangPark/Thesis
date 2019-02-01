@@ -104,6 +104,7 @@
    - [Analysis of irregular spatial data with machine learning: classification of building patterns with a graph convolutional neural network, Yan et al.(2018)]()
    - [Graph attention networks, Velickovic et al.(2018)](https://arxiv.org/abs/1710.10903)
    - [Graph convolutional neural networks for web-scale recommender systems, Ying et al.(2018)](https://arxiv.org/abs/1806.01973)
+   - [Graph Neural Networks: A Review of Methods and Applications, Zhou et al.(2018)](https://arxiv.org/abs/1812.08434)
    - [Graph representation learning with graph convolutional networks, Leskovec(2018)](helper.ipam.ucla.edu/publications/dlt2018/dlt2018_14555.pdf)
    - [How powerful are garph neural networks?, Xu et al.(2018)]()
    - [Learning to represent programs with graphs, Allamanis et al.(2018)]()
