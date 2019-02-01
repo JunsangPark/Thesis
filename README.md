@@ -49,6 +49,10 @@
 + **Autoencoder**
    - [Auto-Encoding Variational Bayes, Kingma et al.(2014)](https://arxiv.org/pdf/1312.6114.pdf)
    - [Autorec: Autoencoders meet collaborative filtering, Sedhain et al.(2015)](https://www.researchgate.net/publication/311491420_AutoRec_Autoencoders_Meet_Collaborative_Filtering)
+
+
++ **Automated Building Layouts**
+   - [Computer-Generated Residential Building Layouts, Merrell et al.(2011)](https://graphics.stanford.edu/~pmerrell/floorplan-final.pdf)
    
 
 + **Clustering**
