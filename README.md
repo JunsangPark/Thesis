@@ -124,6 +124,7 @@
 
 + **Dynamic pricing**
    - [Simulating Dynamic Pricing Algorithm Performance in Heterogeneous Markets, Olav et al.(2016)](https://brage.bibsys.no/xmlui/handle/11250/2433836)
+   - [Dynamic Online Pricing with Incomplete Information Using Multi-Armed Bandit Experiments, Misra et al.(2018)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2981814)
 
 
 + **Empirical analysis and Observations**
