@@ -185,6 +185,7 @@
    - [Human-level control through deep reinforcement learning, Mnih et al.(2015)](https://www.nature.com/articles/nature14236)
    - [Continuous control with deep reinforcement learning, Lillicrap et al.(2016)](https://arxiv.org/pdf/1509.02971.pdf)
    - [Introduction to RL, Spinning up](https://spinningup.openai.com/en/latest/)
+   - [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 
 + **Statistics**
