@@ -182,6 +182,7 @@
 + **Reinforcement Learning**
    - [Technical note: Q-learning, Wakins et al.(1992)](http://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf)
    - [Reinforcement learning in continuous action spaces, Hasselt et al.(2007)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.7658&rep=rep1&type=pdf)
+   - [Playing Atari with Deep reinforcement learning, Mnih et al.(2013)](https://arxiv.org/abs/1312.5602)
    - [Human-level control through deep reinforcement learning, Mnih et al.(2015)](https://www.nature.com/articles/nature14236)
    - [Continuous control with deep reinforcement learning, Lillicrap et al.(2016)](https://arxiv.org/pdf/1509.02971.pdf)
    - [Introduction to RL, Spinning up](https://spinningup.openai.com/en/latest/)
