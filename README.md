@@ -186,6 +186,7 @@
    - [Playing Atari with Deep reinforcement learning, Mnih et al.(2013)](https://arxiv.org/abs/1312.5602)
    - [Human-level control through deep reinforcement learning, Mnih et al.(2015)](https://www.nature.com/articles/nature14236)
    - [Continuous control with deep reinforcement learning, Lillicrap et al.(2016)](https://arxiv.org/pdf/1509.02971.pdf)
+   - [Deep Reinforcement learning, Yi(2018)](https://arxiv.org/pdf/1810.06339)
    - [Introduction to RL, Spinning up](https://spinningup.openai.com/en/latest/)
    - [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
