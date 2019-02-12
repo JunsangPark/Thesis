@@ -191,6 +191,10 @@
    - [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 
++ **RNN**
+   - [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling, Chung et al.(2014)](https://arxiv.org/abs/1412.3555)
+
+
 + **Statistics**
    - [Myopia and ambient lighting at night, Quinn et al.(1999)](https://www.nature.com/articles/20094)
    - [Salience and Taxation: Theory and Evidence, Chetty et al.(2009)](https://are.berkeley.edu/SGDC/Chetty_Looney_Kroft_AER_2010.pdf)
