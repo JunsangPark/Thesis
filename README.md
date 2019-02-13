@@ -133,6 +133,7 @@
 
 + **Generative model**
    - [A Neural Autoregressive Approach to Collaborative Filtering, Zheng et al.(2016)](https://arxiv.org/abs/1605.09477)
+   - [NIPS 2016 Tutorial:Generative Adversarial Networks, Goodfellow(2016)](https://arxiv.org/abs/1701.00160)
    - [Deep Generative models, Ermon and Grover(2018)](https://deepgenerativemodels.github.io/)
    
 
