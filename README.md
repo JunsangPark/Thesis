@@ -14,6 +14,7 @@
    - [Deep Neural Networks for YouTube Recommendations, Covington et al.(2016)](https://research.google.com/pubs/archive/45530.pdf)
    - [Dynamic Pricing and Energy Consumption Scheduling With Reinforcement Learning, Kim et al.(2016)](https://ieeexplore.ieee.org/document/7321806)
    - [Top 5 machine learning applications for e-commere, Magrabi(2016)]()
+   - [Wide & Deep Learning for Recommender Systems, Cheng et al.(2016)](https://arxiv.org/abs/1606.07792)
    - [A Content-based Recommender System for E-commerce Offers and Coupons, Xia et al.(2017)](http://sigir-ecom.weebly.com/uploads/1/0/2/9/102947274/paper_20.pdf)
    - [Address Fraud: Monkey Typed Address Classification for e-Commerce Applications, Babu et al.(2017)](http://sigir-ecom.weebly.com/uploads/1/0/2/9/102947274/paper_21.pdf)
    - [Airfare Prices Prediction Using Machine Learning Techniques, Tziridis et al.(2017)](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2017/papers/1570348051.pdf)
