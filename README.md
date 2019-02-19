@@ -55,6 +55,10 @@
 + **Automated Building Layouts**
    - [Computer-Generated Residential Building Layouts, Merrell et al.(2011)](https://graphics.stanford.edu/~pmerrell/floorplan-final.pdf)
    
+   
++ **Blockchain**
+   - [블록체인 기반의 인공지능 생태계, (2018)](https://aicrypto.ai/AIC_WhitePaper_Kor.pdf)   
+   
 
 + **Clustering**
    - [Unsupervised deep embedding for clustering analysis, Xie et al.(2015)](https://arxiv.org/pdf/1511.06335.pdf)
