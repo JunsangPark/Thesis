@@ -185,6 +185,10 @@
    - [An empirical evaluation of generic convolutional and recurrent networks for sequential modeling, Bai et al.(2018)](https://arxiv.org/pdf/1803.01271.pdf)
    - [Universal language model fine-tunning for text classification, Howard et al.(2018)](https://arxiv.org/pdf/1801.06146.pdf)
 
+
++ **Optimization** 
+   - [Follow-the-Regularized-Leader and Mirror Descent: Equivalence Theorems and L1 Regularization, McMahan(2011)](https://ai.google/research/pubs/pub37013)
+   
    
 + **Reinforcement Learning**
    - [Technical note: Q-learning, Wakins et al.(1992)](http://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf)
