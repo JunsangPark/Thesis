@@ -136,6 +136,11 @@
    - [An Empirical Analysis of Algorithmic Pricing on Amazon Marketplace, Chen et al.(2016)](https://mislove.org/publications/Amazon-WWW.pdf)
 
 
++ **Ensembles**
+   - [Greedy function approximation: A gradient boosting machine, Friedman(2001)](https://projecteuclid.org/euclid.aos/1013203451)
+   - [Introduction to Boosted trees, Chen(2014)](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf)
+   
+
 + **Generative model**
    - [A Neural Autoregressive Approach to Collaborative Filtering, Zheng et al.(2016)](https://arxiv.org/abs/1605.09477)
    - [NIPS 2016 Tutorial:Generative Adversarial Networks, Goodfellow(2016)](https://arxiv.org/abs/1701.00160)
