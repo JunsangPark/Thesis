@@ -185,6 +185,7 @@
 
 
 + **NLP** 
+   - [Bag of Tricks for Efficient Text Classification, Joulin et al.(2016)](https://arxiv.org/pdf/1607.01759.pdf)
    - [Convolutional Sequence to Sequence Learning, Gehring et al.(2017)](https://arxiv.org/abs/1705.03122)
    - [Language Modeling with Gated Convolutional Networks, Dauphin et al.(2017)](https://arxiv.org/abs/1612.08083)
    - [An empirical evaluation of generic convolutional and recurrent networks for sequential modeling, Bai et al.(2018)](https://arxiv.org/pdf/1803.01271.pdf)
