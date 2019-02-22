@@ -159,6 +159,8 @@
    - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, Ren et al.(2016)](https://arxiv.org/pdf/1506.01497.pdf)
    - [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN, Parthasarathy(2017)](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
    - [Feature Pyramid Networks for Object Detection, Lin et al.(2017)](https://arxiv.org/pdf/1612.03144.pdf) 
+   - [Look into Person: Self-supervised Structure-sensitive Learning and A New Benchmark for Human Parsing, Gong et al.(2017)](http://openaccess.thecvf.com/content_cvpr_2017/papers/Gong_Look_Into_Person_CVPR_2017_paper.pdf)
+   - [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields, Cao et al.(2017)](https://arxiv.org/pdf/1611.08050.pdf)
    - [Wide Residual Networks, Zagoruyko et al.(2017)](https://arxiv.org/pdf/1605.07146.pdf)
    - [Focal Loss for Dense object detection, Lin et al.(2018)](https://arxiv.org/pdf/1708.02002.pdf)
    - [Generative adversarial network-based virtual try-on with clothing region, Kubo et al.(2018)](https://openreview.net/forum?id=B1WLiDJvM)
@@ -182,7 +184,6 @@
    - [Matrix completion on graphs, Kalofolias et al.(2014)](https://arxiv.org/abs/1408.1717)
    - [Collaborative filtering with graph information: Consistency and scalable methods, Rao et al.(2015)](https://papers.nips.cc/paper/5938-collaborative-filtering-with-graph-information-consistency-and-scalable-methods)
    
-
 
 + **NLP** 
    - [Bag of Tricks for Efficient Text Classification, Joulin et al.(2016)](https://arxiv.org/pdf/1607.01759.pdf)
