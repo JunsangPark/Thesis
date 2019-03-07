@@ -72,6 +72,7 @@
    - [GradientBased Learning Applied to Document Recognition, LeCun et al.(1998)](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
    - [Rosenblatt's Contributions, (2011)](http://csis.pace.edu/~ctappert/srd2011/rosenblatt-contributions.htm)
    - [Exact solutions to the nonlinear dynamics of learning in deep linear neural networks, (2014)](https://arxiv.org/abs/1312.6120)
+   - [Autoregressiver models, Stefano Ermon, Aditya Grover(2018)](https://deepgenerativemodels.github.io/assets/slides/cs236_lecture3.pdf)
    
    
 + **DNN on manifold**
