@@ -31,6 +31,8 @@
    - [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba, Huang et al.(2018)](http://www.cse.ust.hk/~hzhaoaf/data/kdd18-paper.pdf)
    - [Dynamic Pricing under Competition on Online Marketplaces: A Data-Driven Approach, Schlosser et al.(2018)](https://www.researchgate.net/publication/326503226_Dynamic_Pricing_under_Competition_on_Online_Marketplaces_A_Data-Driven_Approach)
    - [How This Research By Alibaba Group Has Used Reinforcement Learning To Change Real-Time Bidding, Maladkar(2018)](https://www.analyticsindiamag.com/how-this-research-by-alibaba-group-has-used-reinforcement-learning-to-change-real-time-bidding/)
+   - [Incorporating Corporation Relationship via Graph
+Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](www.sdspeople.fudan.edu.cn/zywei/paper/chen-cikm2018.pdf)
    - [Multi-level deep learning based e-commerce product categorization, Yu et al.(2018)]()
    - [Multi-lingual neural title generation for e-commerce browse pages, Mathur et al.(2018)](http://aclweb.org/anthology/N18-3020)
    - [Predicting e-consumer behavior using recurrent neural networks, Danmand(2018)](https://blog.nirida.ai/predicting-e-commerce-consumer-behavior-using-recurrent-neural-networks-36e37f1aed22)
@@ -43,8 +45,6 @@
    - [Talent Search and Recommendation Systems at LinkedIn: Practical Challenges and Lessons Learned, Geyik et al.(2018)](https://arxiv.org/pdf/1809.06481.pdf)
    - [The Evolution of Content Analysis for Personalized Recommendations at Twitter, Grewal et al.(2018)](https://cs.uwaterloo.ca/~jimmylin/publications/Grewal_Lin_SIGIR2018.pdf)
    - [Dynamic pricing on E-commerce platform with deep reinforcement learning, (2019)](https://openreview.net/pdf?id=HJMRvsAcK7)
-   - [Incorporating Corporation Relationship via Graph
-Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2019)](www.sdspeople.fudan.edu.cn/zywei/paper/chen-cikm2018.pdf)
    - [19 Powerful Ways To Use Artificial Intelligence In Ecommerce](http://blog.linnworks.com/artificial-intelligence-in-ecommerce)
    - [Dynamic Pricing on Online Marketplaces, Hasso Plattner Institute](https://hpi.de/plattner/projects/dynamic-pricing-on-online-marketplaces.html)
 
