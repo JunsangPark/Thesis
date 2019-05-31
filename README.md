@@ -174,6 +174,7 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
    - [Mask R-CNN, He et al.(2018)](https://arxiv.org/abs/1703.06870)
    - [Photo Wake-Up: 3D Character Animation from a Single Photo, Weng et al.(2018)](https://arxiv.org/pdf/1812.02246.pdf)
    - [VITON: An Image-based Virtual Try-on Network, Han et al.(2018)](https://arxiv.org/abs/1711.08447)
+   - [Toward Characteristic-Preserving Image-based Virtual Try-On Network, Wang et al.(2018)](https://arxiv.org/pdf/1807.07688.pdf)
 
 
 + **Link prediction**
