@@ -161,6 +161,7 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
    - [Image-based 3D Avatar for Virtual Try-on Applications, Tisserand et al.(2015)](http://docplayer.net/40134084-Image-based-3d-avatar-for-virtual-try-on-applications.html)
    - [Semantic image segmentation with deep convolutional nets and fully connected CRFs, Chen et al.(2015)](https://arxiv.org/pdf/1412.7062.pdf)
    - [SMPL: A skinned multi-person linear model, Loper et al.(2015)](files.is.tue.mpg.de/black/papers/SMPL2015.pdf)
+   - [U-net: Convolutional networks for biomedical image segmentation, Ronneberger et al.(2015)](https://arxiv.org/abs/1505.04597)
    - [Attention to Scale: Scale-aware Semantic Image Segmentation, Chen et al.(2016)](https://arxiv.org/abs/1511.03339)
    - [COnvolutional pose machines, Wei et al.(2016)](https://arxiv.org/abs/1602.00134)
    - [Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution and fully connected CRFs, Chen et al.(2016)](https://arxiv.org/pdf/1606.00915.pdf)
