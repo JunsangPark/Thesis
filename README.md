@@ -155,6 +155,7 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
 
 + **Image**
    - [A randomized correspondence algorithm for structural image editing, Shechtman et al.(2009)](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/index.php)
+   - [Pose Machines:Articulated Pose Estimation via inference Machines, Ramakrishna et al.(2014)](https://www.ri.cmu.edu/pub_files/2014/7/poseMachines.pdf)
    - [Rich feature hierarchies for accurate object detection and semantic segmentation, Girshick et al.(2014)](https://arxiv.org/pdf/1311.2524.pdf)
    - [Very deep convolutional networks for large-scale image recognition, Simonyan et al.(2014)](https://arxiv.org/abs/1409.1556)
    - [Fast R-CNN, Girshick et al.(2015)](https://arxiv.org/pdf/1504.08083.pdf)
