@@ -170,6 +170,7 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
    - [Deep3D: Fully Automatic 2D-to-3D Video Conversion with Deep Convolutional Neural Networks, Xie et al.(2016)](https://arxiv.org/abs/1604.03650)
    - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, Ren et al.(2016)](https://arxiv.org/pdf/1506.01497.pdf)
    - [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN, Parthasarathy(2017)](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
+   - [Automatic Sketch Colourization, Li et al.(2017)](https://cs231n.stanford.edu/reports/2017/pdfs/403.pdf)
    - [Feature Pyramid Networks for Object Detection, Lin et al.(2017)](https://arxiv.org/pdf/1612.03144.pdf) 
    - [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization, Selvaraju et al.(2017)](https://arxiv.org/abs/1610.02391)
    - [Look into Person: Self-supervised Structure-sensitive Learning and A New Benchmark for Human Parsing, Gong et al.(2017)](http://openaccess.thecvf.com/content_cvpr_2017/papers/Gong_Look_Into_Person_CVPR_2017_paper.pdf)
