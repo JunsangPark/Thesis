@@ -171,6 +171,8 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
    - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, Ren et al.(2016)](https://arxiv.org/pdf/1506.01497.pdf)
    - [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN, Parthasarathy(2017)](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
    - [Automatic Sketch Colourization, Li et al.(2017)](https://cs231n.stanford.edu/reports/2017/pdfs/403.pdf)
+   - [Be Your Own Prada: Fashion Synthesis with Structural Coherence, Zhu et al.(2017)](http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN/)
+   - [The Conditional Analogy GAN: Swapping Fashion Articles on People Images, Jetchev et al.(2017)](https://arxiv.org/abs/1709.04695)
    - [Feature Pyramid Networks for Object Detection, Lin et al.(2017)](https://arxiv.org/pdf/1612.03144.pdf) 
    - [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization, Selvaraju et al.(2017)](https://arxiv.org/abs/1610.02391)
    - [Look into Person: Self-supervised Structure-sensitive Learning and A New Benchmark for Human Parsing, Gong et al.(2017)](http://openaccess.thecvf.com/content_cvpr_2017/papers/Gong_Look_Into_Person_CVPR_2017_paper.pdf)
@@ -185,6 +187,7 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
    - [SwapNet: Image Based Garment Transfer, Raj et al.(2018)](www.eye.gatech.edu/swapnet/paper.pdf)
    - [VITON: An Image-based Virtual Try-on Network, Han et al.(2018)](https://arxiv.org/abs/1711.08447)
    - [Toward Characteristic-Preserving Image-based Virtual Try-On Network, Wang et al.(2018)](https://arxiv.org/pdf/1807.07688.pdf)
+   - [Compatible and Diverse Fashion Image Inpainting, Han et al.(2019)](https://arxiv.org/abs/1902.01096)
    - [Toward Multi-pose Guided Virtual Try-on Network, Dong et al.(2019)](https://arxiv.org/abs/1902.11026)
 
 
