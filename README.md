@@ -180,8 +180,12 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
    - [Generative adversarial network-based virtual try-on with clothing region, Kubo et al.(2018)](https://openreview.net/forum?id=B1WLiDJvM)
    - [Mask R-CNN, He et al.(2018)](https://arxiv.org/abs/1703.06870)
    - [Photo Wake-Up: 3D Character Animation from a Single Photo, Weng et al.(2018)](https://arxiv.org/pdf/1812.02246.pdf)
+   - [PIVTONS: Pose Invariant Virtual Try-on Shoe with Conditional Image Completion, Chou et al.(2018)](https://winstonhsu.info/wp-content/.../09/chou18PIVTONS.pdf)
+   - [Soft-Gated Warping-GAN for Pose-Guided Person Image Synthesis, Dong et al.(2018)](https://arxiv.org/abs/1810.11610)
+   - [SwapNet: Image Based Garment Transfer, Raj et al.(2018)](www.eye.gatech.edu/swapnet/paper.pdf)
    - [VITON: An Image-based Virtual Try-on Network, Han et al.(2018)](https://arxiv.org/abs/1711.08447)
    - [Toward Characteristic-Preserving Image-based Virtual Try-On Network, Wang et al.(2018)](https://arxiv.org/pdf/1807.07688.pdf)
+   - [Toward Multi-pose Guided Virtual Try-on Network, Dong et al.(2019)](https://arxiv.org/abs/1902.11026)
 
 
 + **Link prediction**
