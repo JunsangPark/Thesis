@@ -180,6 +180,7 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
    - [Wide Residual Networks, Zagoruyko et al.(2017)](https://arxiv.org/pdf/1605.07146.pdf)
    - [Focal Loss for Dense object detection, Lin et al.(2018)](https://arxiv.org/pdf/1708.02002.pdf)
    - [Generative adversarial network-based virtual try-on with clothing region, Kubo et al.(2018)](https://openreview.net/forum?id=B1WLiDJvM)
+   - [Human Appearance Transfer, Zanfir et al.(2018)](http://openaccess.thecvf.com/content_cvpr_2018/html/Zanfir_Human_Appearance_Transfer_CVPR_2018_paper.html)
    - [Mask R-CNN, He et al.(2018)](https://arxiv.org/abs/1703.06870)
    - [Photo Wake-Up: 3D Character Animation from a Single Photo, Weng et al.(2018)](https://arxiv.org/pdf/1812.02246.pdf)
    - [PIVTONS: Pose Invariant Virtual Try-on Shoe with Conditional Image Completion, Chou et al.(2018)](https://winstonhsu.info/wp-content/.../09/chou18PIVTONS.pdf)
