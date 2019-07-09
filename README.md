@@ -191,6 +191,7 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
    - [VITON: An Image-based Virtual Try-on Network, Han et al.(2018)](https://arxiv.org/abs/1711.08447)
    - [Toward Characteristic-Preserving Image-based Virtual Try-On Network, Wang et al.(2018)](https://arxiv.org/pdf/1807.07688.pdf)
    - [Compatible and Diverse Fashion Image Inpainting, Han et al.(2019)](https://arxiv.org/abs/1902.01096)
+   - [End-to-end learning of geometric deformations of feature maps for virtual try-on, Lssenhuth et al.(2019)](https://arxiv.org/abs/1902.01096)
    - [Toward Multi-pose Guided Virtual Try-on Network, Dong et al.(2019)](https://arxiv.org/abs/1902.11026)
 
 
