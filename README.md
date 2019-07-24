@@ -166,6 +166,7 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
    - [Attention to Scale: Scale-aware Semantic Image Segmentation, Chen et al.(2016)](https://arxiv.org/abs/1511.03339)
    - [Context Encoders:Feature Learning by Inpainting, Pathak et al.(2016)](https://arxiv.org/pdf/1604.07379.pdf)
    - [Convolutional pose machines, Wei et al.(2016)](https://arxiv.org/abs/1602.00134)
+   - [DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations,Liu et al.(2016)](https://liuziwei7.github.io/projects/DeepFashion.html)
    - [Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution and fully connected CRFs, Chen et al.(2016)](https://arxiv.org/pdf/1606.00915.pdf)
    - [Deep3D: Fully Automatic 2D-to-3D Video Conversion with Deep Convolutional Neural Networks, Xie et al.(2016)](https://arxiv.org/abs/1604.03650)
    - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, Ren et al.(2016)](https://arxiv.org/pdf/1506.01497.pdf)
