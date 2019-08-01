@@ -139,6 +139,7 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
 
 
 + **Embedding**
+   - [Conditional Similarity Networks, Veit et al.(2017)](https://arxiv.org/pdf/1603.07810.pdf)
    - [Learning Type-Aware Embeddings for Fashion Compatibility, Vasileva et al.(2018)](https://arxiv.org/pdf/1803.09196.pdf)
 
 
