@@ -138,6 +138,10 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
    - [Dynamic Online Pricing with Incomplete Information Using Multi-Armed Bandit Experiments, Misra et al.(2018)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2981814)
 
 
++ **Embedding**
+   - [Learning Type-Aware Embeddings for Fashion Compatibility, Vasileva et al.(2018)](https://arxiv.org/pdf/1803.09196.pdf)
+
+
 + **Empirical analysis and Observations**
    - [An Empirical Analysis of Algorithmic Pricing on Amazon Marketplace, Chen et al.(2016)](https://mislove.org/publications/Amazon-WWW.pdf)
 
