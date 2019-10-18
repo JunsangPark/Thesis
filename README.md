@@ -255,5 +255,7 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
 + **Time Series**
    - [Time Series Classification from Scratch with Deep Neural Networks: A Strong Baseline, Wang et al.(2016)](https://arxiv.org/abs/1611.06455)
    - [Deep Learning for Time-Series Analysis, Gamboa(2017)](https://arxiv.org/abs/1701.01887)
+   - [Deep Learning for time series classification: a review, Fawaz(2019)](https://arxiv.org/abs/1809.04356)
+
 
    
