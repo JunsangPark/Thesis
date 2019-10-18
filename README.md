@@ -252,6 +252,7 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
    - [Thinking, fast and slow? Some field experiments to reduce crime and dropout in Chicago, Heller et al.(2015)](https://harris.uchicago.edu/files/inline-files/CBT%20paper%20thinking%20fast%20and%20slow%20NBER%20WP%20w21178.pdf)
    - [Using Big Data to Estimate Consumer Surplus: The Case of Uber, Cohen et al.(2016)](http://www.datascienceassn.org/sites/default/files/Using%20Big%20Data%20to%20Estimate%20Consumer%20Surplus%20at%20Uber.pdf)
 
-
++ **Time Series**
+   - [Time Series Classification from Scratch with Deep Neural Networks: A Strong Baseline, Wang et al.(2016)](https://arxiv.org/abs/1611.06455)
 
    
