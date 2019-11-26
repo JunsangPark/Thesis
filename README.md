@@ -186,6 +186,7 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
    - [Look into Person: Self-supervised Structure-sensitive Learning and A New Benchmark for Human Parsing, Gong et al.(2017)](http://openaccess.thecvf.com/content_cvpr_2017/papers/Gong_Look_Into_Person_CVPR_2017_paper.pdf)
    - [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields, Cao et al.(2017)](https://arxiv.org/pdf/1611.08050.pdf)
    - [Wide Residual Networks, Zagoruyko et al.(2017)](https://arxiv.org/pdf/1605.07146.pdf)
+   - [Densely Connected Convolutional Networks, Huang et al.(2018)](https://arxiv.org/pdf/1608.06993.pdf)
    - [Face synthesis for eyeglass-robust face recognition, Guo et al.(2018)](https://arxiv.org/abs/1806.01196)
    - [Focal Loss for Dense object detection, Lin et al.(2018)](https://arxiv.org/pdf/1708.02002.pdf)
    - [Generative adversarial network-based virtual try-on with clothing region, Kubo et al.(2018)](https://openreview.net/forum?id=B1WLiDJvM)
