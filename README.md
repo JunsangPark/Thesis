@@ -32,6 +32,7 @@
    - [Address clustering for e-commerce applications, Kakkar et al.(2018)]()
    - [A novel wavelet sequence based on deep bidirectional LSTM network model for ECG signal classification, Yildirim et al.(2018)](https://www.researchgate.net/publication/324056729_A_novel_wavelet_sequence_based_on_deep_bidirectional_LSTM_network_model_for_ECG_signal_classification)
    - [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba, Huang et al.(2018)](http://www.cse.ust.hk/~hzhaoaf/data/kdd18-paper.pdf)
+   - [Computer-aided diagnosis of atrial fibrillation based on ECG Signals: A review, Hagiwara et al.(2018)](https://www.sciencedirect.com/science/article/pii/S0020025518305917)
    - [Dynamic Pricing under Competition on Online Marketplaces: A Data-Driven Approach, Schlosser et al.(2018)](https://www.researchgate.net/publication/326503226_Dynamic_Pricing_under_Competition_on_Online_Marketplaces_A_Data-Driven_Approach)
    - [How This Research By Alibaba Group Has Used Reinforcement Learning To Change Real-Time Bidding, Maladkar(2018)](https://www.analyticsindiamag.com/how-this-research-by-alibaba-group-has-used-reinforcement-learning-to-change-real-time-bidding/)
    - [Incorporating Corporation Relationship via Graph
