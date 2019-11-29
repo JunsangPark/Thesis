@@ -34,6 +34,7 @@
    - [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba, Huang et al.(2018)](http://www.cse.ust.hk/~hzhaoaf/data/kdd18-paper.pdf)
    - [Computer-aided diagnosis of atrial fibrillation based on ECG Signals: A review, Hagiwara et al.(2018)](https://www.sciencedirect.com/science/article/pii/S0020025518305917)
    - [Dynamic Pricing under Competition on Online Marketplaces: A Data-Driven Approach, Schlosser et al.(2018)](https://www.researchgate.net/publication/326503226_Dynamic_Pricing_under_Competition_on_Online_Marketplaces_A_Data-Driven_Approach)
+   - [ECG Arrhythmia Classification Using Transfer Learning from 2-Dimensional Deep CNN Features,Salem et al.(2018)](https://arxiv.org/ftp/arxiv/papers/1812/1812.04693.pdf)
    - [How This Research By Alibaba Group Has Used Reinforcement Learning To Change Real-Time Bidding, Maladkar(2018)](https://www.analyticsindiamag.com/how-this-research-by-alibaba-group-has-used-reinforcement-learning-to-change-real-time-bidding/)
    - [Incorporating Corporation Relationship via Graph
 Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](www.sdspeople.fudan.edu.cn/zywei/paper/chen-cikm2018.pdf)
