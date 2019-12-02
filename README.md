@@ -190,6 +190,7 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
    - [Feature Pyramid Networks for Object Detection, Lin et al.(2017)](https://arxiv.org/pdf/1612.03144.pdf) 
    - [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization, Selvaraju et al.(2017)](https://arxiv.org/abs/1610.02391)
    - [Look into Person: Self-supervised Structure-sensitive Learning and A New Benchmark for Human Parsing, Gong et al.(2017)](http://openaccess.thecvf.com/content_cvpr_2017/papers/Gong_Look_Into_Person_CVPR_2017_paper.pdf)
+   - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, Howard et al.(2017)](https://arxiv.org/pdf/1704.04861.pdf)
    - [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields, Cao et al.(2017)](https://arxiv.org/pdf/1611.08050.pdf)
    - [Wide Residual Networks, Zagoruyko et al.(2017)](https://arxiv.org/pdf/1605.07146.pdf)
    - [Densely Connected Convolutional Networks, Huang et al.(2018)](https://arxiv.org/pdf/1608.06993.pdf)
