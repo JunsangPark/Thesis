@@ -210,6 +210,7 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
    - [Compatible and Diverse Fashion Image Inpainting, Han et al.(2019)](https://arxiv.org/abs/1902.01096)
    - [EfficientNet: Rethinking MOdel Scaling for Convolutional Neural Networks, Tan et al.(2019)](https://arxiv.org/abs/1905.11946)
    - [End-to-end learning of geometric deformations of feature maps for virtual try-on, Lssenhuth et al.(2019)](https://arxiv.org/abs/1902.01096)
+   - [MnasNet: Platform-Aware Neural Architecture Search for Mobile, Tan et al.(2019)](https://arxiv.org/pdf/1807.11626.pdf)
    - [Toward Multi-pose Guided Virtual Try-on Network, Dong et al.(2019)](https://arxiv.org/abs/1902.11026)
 
 
