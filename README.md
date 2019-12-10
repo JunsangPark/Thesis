@@ -132,6 +132,7 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
    - [Representation Learning on Graphs: Methods and Applications, Hamilton et al.(2018)](https://arxiv.org/abs/1709.05584)
    - [Streaming Graph Neural Networks, Ma et al.(2018)](https://arxiv.org/pdf/1810.10627.pdf)
    - [Structured deep models: Deep learning on graphs and beyond, Kipf(2018)](http://tkipf.github.io/misc/SlidesCambridge.pdf)
+   - [Edge-Labeling Graph Neural Network for Few-shot Learning, Kim(2019)](https://arxiv.org/pdf/1905.01436.pdf)
    - [Learning to fail: Predicting fracture evolution in brittle material models using recurrent graph convolutional neural networks, Schwarzer et al.(2019)](https://arxiv.org/abs/1810.06118)
    - [A tutorial on graph convolutional neural networks, Dbusbridge]()
    - [Graph neural networks, Stanford]()
