@@ -81,6 +81,7 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
    - [Rosenblatt's Contributions, (2011)](http://csis.pace.edu/~ctappert/srd2011/rosenblatt-contributions.htm)
    - [The Neural Autoregressive Distribution Estimator, Larochelle and Murray(2011)](http://proceedings.mlr.press/v15/larochelle11a/larochelle11a.pdf)
    - [Exact solutions to the nonlinear dynamics of learning in deep linear neural networks, (2014)](https://arxiv.org/abs/1312.6120)
+   - [Deep Networks with Stochastic Depth, Huang et al.(2016)](https://arxiv.org/pdf/1603.09382.pdf)
    - [Autoregressiver models, Stefano Ermon, Aditya Grover(2018)](https://deepgenerativemodels.github.io/assets/slides/cs236_lecture3.pdf)
    
    
