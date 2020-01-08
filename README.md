@@ -212,6 +212,7 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
    - [Toward Characteristic-Preserving Image-based Virtual Try-On Network, Wang et al.(2018)](https://arxiv.org/pdf/1807.07688.pdf)
    - [Adversarial Examples Improve Image Recognition, Xie et al.(2019)](https://arxiv.org/pdf/1911.09665.pdf)
    - [Compatible and Diverse Fashion Image Inpainting, Han et al.(2019)](https://arxiv.org/abs/1902.01096)
+   - [Drop and Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution, Chen et al.(2019)](https://arxiv.org/pdf/1904.05049.pdf)
    - [EfficientNet: Rethinking MOdel Scaling for Convolutional Neural Networks, Tan et al.(2019)](https://arxiv.org/abs/1905.11946)
    - [End-to-end learning of geometric deformations of feature maps for virtual try-on, Lssenhuth et al.(2019)](https://arxiv.org/abs/1902.01096)
    - [Fixing the train-test resolution discrepancy, Touvron et al.(2019)](https://arxiv.org/pdf/1906.06423v2.pdf) 
