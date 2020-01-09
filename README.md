@@ -33,6 +33,7 @@
    - [A novel wavelet sequence based on deep bidirectional LSTM network model for ECG signal classification, Yildirim et al.(2018)](https://www.researchgate.net/publication/324056729_A_novel_wavelet_sequence_based_on_deep_bidirectional_LSTM_network_model_for_ECG_signal_classification)
    - [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba, Huang et al.(2018)](http://www.cse.ust.hk/~hzhaoaf/data/kdd18-paper.pdf)
    - [Computer-aided diagnosis of atrial fibrillation based on ECG Signals: A review, Hagiwara et al.(2018)](https://www.sciencedirect.com/science/article/pii/S0020025518305917)
+   - [Convolutional Recurrent Neural Networks for Electrocardiogram Classification, Zihlmann et al.(2018)](https://arxiv.org/pdf/1710.06122.pdf)
    - [Dynamic Pricing under Competition on Online Marketplaces: A Data-Driven Approach, Schlosser et al.(2018)](https://www.researchgate.net/publication/326503226_Dynamic_Pricing_under_Competition_on_Online_Marketplaces_A_Data-Driven_Approach)
    - [ECG Arrhythmia Classification Using Transfer Learning from 2-Dimensional Deep CNN Features,Salem et al.(2018)](https://arxiv.org/ftp/arxiv/papers/1812/1812.04693.pdf)
    - [How This Research By Alibaba Group Has Used Reinforcement Learning To Change Real-Time Bidding, Maladkar(2018)](https://www.analyticsindiamag.com/how-this-research-by-alibaba-group-has-used-reinforcement-learning-to-change-real-time-bidding/)
