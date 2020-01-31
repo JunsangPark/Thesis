@@ -186,6 +186,7 @@ Convolutional Neural Networks for Stock Price Prediction, Chen and Wei(2018)](ww
    - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, Ren et al.(2016)](https://arxiv.org/pdf/1506.01497.pdf)
    - [Identity Mappings in Deep Residual Networks, He et al.(2016)](https://arxiv.org/pdf/1603.05027.pdf)
    - [Image style transfer using convolutional neural networks, Gatys et al.(2016)](https://pdfs.semanticscholar.org/3eeb/f249182614838294f7658da7e8d20c0a1917.pdf)
+   - [Image-to-Image Translation with Conditional Adversarial Networks, Isola et al.(2016)](https://arxiv.org/pdf/1611.07004.pdf)
    - [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, Szegedy et al.(2016)](https://arxiv.org/pdf/1602.07261.pdf)
    - [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN, Parthasarathy(2017)](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
    - [Automatic Sketch Colourization, Li et al.(2017)](https://cs231n.stanford.edu/reports/2017/pdfs/403.pdf)
